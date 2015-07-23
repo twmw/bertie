@@ -1,6 +1,3 @@
 -module(bertie).
 -export([start/0]).
-%%
-%%
-start() -> 
-           io.format("Hello my name is Bertie ~n").
+start() -> io:format("1").
